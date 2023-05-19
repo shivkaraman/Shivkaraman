@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shivakaramans@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IS2rHUgcwYV-4X0-ozQvlYt0m7wJ6sIs/view?usp=sharing](https://drive.google.com/file/d/1IS2rHUgcwYV-4X0-ozQvlYt0m7wJ6sIs/view?usp=sharing)
+- 📄 Resume : [https://drive.google.com/file/d/1IS2rHUgcwYV-4X0-ozQvlYt0m7wJ6sIs/view?usp=sharing](https://drive.google.com/file/d/1IS2rHUgcwYV-4X0-ozQvlYt0m7wJ6sIs/view?usp=sharing)
 
 - ⚡ Fun fact **Gym Freak💪**
 
