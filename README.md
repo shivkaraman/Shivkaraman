@@ -7,6 +7,8 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivkaraman?tab=repositories](https://github.com/shivkaraman?tab=repositories)
 
+- 📝 Checkout my blogs on [https://shivkaraman.hashnode.dev/]
+
 - 💬 Ask me about **React, HTML, CSS, JS**
 
 - 📫 How to reach me **shivakaramans@gmail.com**
