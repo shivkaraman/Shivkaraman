@@ -5,15 +5,13 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shivkaraman?tab=repositories](https://github.com/shivkaraman?tab=repositories)
+- 👨‍💻 All of my projects are available on <a href="https://github.com/shivkaraman?tab=repositories](https://github.com/shivkaraman?tab=repositories">Github</a>
 
-- 📝 Checkout my blogs on https://shivkaraman.hashnode.dev/
+- 📝 Checkout my blogs on <a href="https://shivkaraman.hashnode.dev/">Hashnode</a>
 
 - 💬 Ask me about **React, HTML, CSS, JS**
 
-- 📫 How to reach me **shivakaramans@gmail.com**
-
-- 📄 Resume [https://drive.google.com/file/d/1IS2rHUgcwYV-4X0-ozQvlYt0m7wJ6sIs/view?usp=sharing](https://drive.google.com/file/d/1IS2rHUgcwYV-4X0-ozQvlYt0m7wJ6sIs/view?usp=sharing)
+- 📄 Resume - <a href="https://drive.google.com/file/d/1IS2rHUgcwYV-4X0-ozQvlYt0m7wJ6sIs/view?usp=sharing](https://drive.google.com/file/d/1IS2rHUgcwYV-4X0-ozQvlYt0m7wJ6sIs/view?usp=sharing">My Resume</a>
 
 - ⚡ Fun fact **Gym enthusiast,chasing gains**
 
