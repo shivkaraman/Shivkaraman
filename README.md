@@ -3,17 +3,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivkaraman&label=Profile%20views&color=0e75b6&style=flat" alt="shivkaraman" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Backend Development**
 
 - 👨‍💻 All of my projects are available on <a href="https://github.com/shivkaraman?tab=repositories](https://github.com/shivkaraman?tab=repositories">Github</a>
 
 - 📝 Checkout my blogs on <a href="https://shivkaraman.hashnode.dev/">Hashnode</a>
 
-- 💬 Ask me about **React, HTML, CSS, JS**
+- 💬 Ask me about **Probem Solving and Front End Development**
 
 - 📄 Resume - <a href="https://drive.google.com/file/d/1IS2rHUgcwYV-4X0-ozQvlYt0m7wJ6sIs/view?usp=sharing](https://drive.google.com/file/d/1IS2rHUgcwYV-4X0-ozQvlYt0m7wJ6sIs/view?usp=sharing">My Resume</a>
 
-- ⚡ Fun fact **Gym enthusiast,chasing gains**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
