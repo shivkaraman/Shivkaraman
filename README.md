@@ -5,8 +5,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivkaraman&label=Profile%20views&color=0e75b6&style=flat" alt="shivkaraman" /> </p>
 
 ## 💫 About Me:
-🌱 I’m currently learning **Backend Development**<br><br>👨‍💻 All of my projects are available on <a href="https://github.com/shivkaraman?tab=repositories](https://github.com/shivkaraman?tab=repositories">Github</a><br><br>📝 Checkout my blogs on <a href="https://shivkaraman.hashnode.dev/">Hashnode</a>
-<br><br>💬 Ask me about **Probem Solving and Web Development**<br><br>📫 Reach out to me at shivakaramans@gmai.com
+🌱 I’m currently learning **Backend Development**<br><br>💬 Ask me about **Probem Solving and Web Development**<br><br>👨‍💻 All of my projects are available on <a href="https://github.com/shivkaraman?tab=repositories](https://github.com/shivkaraman?tab=repositories">Github</a><br><br>📝 Checkout my blogs on <a href="https://shivkaraman.hashnode.dev/">Hashnode</a>
+<br><br>📫 Reach out to me at shivakaramans@gmai.com
 
 
 ## 🌐 Socials:
